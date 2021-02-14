@@ -1,18 +1,23 @@
 # Pewlett Hackard Analysis
 
-The written analysis has the following:
+## Overview of the analysis:
 
-# Overview of the analysis:
-Explain the purpose of this analysis.
-The purpose of the new analysis is well defined. (3 pt)
+The analysis is being carried out in order to identify which employees are retiring and what positions would have to be filled once the employee retires. In the second deleiverbale a list of employees is generated in order to identify the people who are eligible to become mentors.
 
 # Results:
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+
+* In total 90398 employees are retiring 
+* Senior Engineers form the greatest chunk of retirees (as shown in the image below)
+
+<img width="199" alt="Screen Shot 2021-02-14 at 3 40 10 PM" src="https://user-images.githubusercontent.com/73799417/107888553-ecd15600-6eda-11eb-80c3-ce4716210ac7.png">
+
+
+*
+*
 
 # Summary:
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
- Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
